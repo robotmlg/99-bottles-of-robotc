@@ -11,7 +11,7 @@ task main(){
   int iBotts=99;
   string sBotts="";
   bool go=true;
-  int syls=11;//"nine-ty nine" has 3 syllables
+  int syls=3;//"nine-ty nine" has 3 syllables
   int nextsyls=0;
   eraseDisplay();
   nVolume=kMaxVolumeLevel;
